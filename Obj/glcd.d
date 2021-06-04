@@ -1,0 +1,11 @@
+.\obj\glcd.o: GLCD.c
+.\obj\glcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\glcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\glcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\glcd.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H
+.\obj\glcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\obj\glcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\glcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\glcd.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\obj\glcd.o: GLCD.h
+.\obj\glcd.o: font.h

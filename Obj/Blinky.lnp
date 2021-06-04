@@ -1,0 +1,11 @@
+--cpu Cortex-M3
+".\obj\startup_lpc17xx.o"
+".\obj\system_lpc17xx.o"
+".\obj\rtx_conf_cm.o"
+".\obj\main.o"
+".\obj\glcd.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_CM3.LIB
+--strict --scatter ".\Obj\Blinky.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\Blinky.map" -o .\Obj\Blinky.axf
