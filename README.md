@@ -1,6 +1,10 @@
 # Microprocessor_3DMaze
 Microprocessor, third year 1st semester: **3D Maze.**
-ARM Cortex-M3
+
+<h2>Board</h2>
+
+- NXP LPC1768, ARM Cortex-M3
+
 
 
 <h2>Raycasting</h2>
